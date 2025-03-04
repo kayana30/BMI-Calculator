@@ -3,7 +3,7 @@ A simple and responsive BMI (Body Mass Index) Calculator built with HTML, CSS, a
 
 ![image](https://github.com/user-attachments/assets/ee399603-c0fe-4b1f-8f2e-52148f442762)
 
- Features
+Features
 ✅ Clean & responsive UI
 ✅ Calculates BMI accurately
 ✅ Displays BMI category (Underweight, Normal, Overweight, Obese)
